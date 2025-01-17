@@ -2,6 +2,7 @@
 A malaria trends and interventions project for Africa (2007-2017) with a dashboard analyzing cases, intervention measures, and country-specific insights to support health organizations in strategizing efforts to combat malaria effectively. It took 6 hours to work on this project.
 
 **Formal Report: Malaria Trends and Interventions in Africa (2007 - 2017)**
+
 **A. Summary**
 This report provides an in-depth analysis of malaria trends and interventions in Africa over a decade (2007 - 2017). It summarizes key findings, identifies critical patterns and correlations, and offers actionable insights to guide decision-making and inform further research.
 
